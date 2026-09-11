@@ -1,5 +1,5 @@
 import streamlit as st
-
+theme.base"darkblue"
 st.title("Mi aplicación :p") 
 st.badge("#1")
 
