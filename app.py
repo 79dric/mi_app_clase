@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.theme(black)
 st.title("Mi aplicación :p")
 
 
