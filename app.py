@@ -1,6 +1,7 @@
 import streamlit as st
 
-st.title("Mi aplicación :p") st.badge("#1")
+st.title("Mi aplicación :p") 
+st.badge("#1")
 
 
 st.button("Im not a button")
